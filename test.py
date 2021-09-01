@@ -7,3 +7,4 @@ def factorial(n):
 number = int(input('请输入一个正整数：'))
 result = factorial(number)
 print('%d 的阶乘是：%d' % (number,result))
+#用递归计算阶乘
